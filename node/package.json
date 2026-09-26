@@ -76,15 +76,15 @@
     "updates": "^19.0.2",
     "vitest": "^5.0.2"
   },
-  "author": "seydx (https://github.com/cameraui/common)",
+  "author": "seydx (https://github.com/atva0408-create/Vion-common)",
   "bugs": {
-    "url": "https://github.com/cameraui/common/issues"
+    "url": "https://github.com/atva0408-create/Vion-common/issues"
   },
-  "homepage": "https://github.com/cameraui/common#readme",
+  "homepage": "https://github.com/atva0408-create/Vion-common#readme",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cameraui/common.git"
+    "url": "git+https://github.com/atva0408-create/Vion-common.git"
   },
   "keywords": [
     "camera.ui",

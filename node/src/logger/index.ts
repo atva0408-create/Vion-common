@@ -53,7 +53,7 @@ export class Logger extends EventEmitter {
   constructor(options?: LoggerOptions) {
     super();
 
-    this.prefix = options?.prefix ?? 'camera.ui';
+    this.prefix = options?.prefix ?? 'ViON';
     this.suffix = options?.suffix;
     this.disablePrefix = options?.disablePrefix ?? false;
     this.disableTimestamps = options?.disableTimestamps ?? false;
