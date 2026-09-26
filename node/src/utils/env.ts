@@ -6,4 +6,4 @@ export const IS_ELECTRON = env.CAMERA_UI_RUNMODE === 'electron';
 export const IS_HA = env.CAMERA_UI_RUNMODE === 'homeassistant';
 
 export const APP_CLI_NAME = 'camera.ui';
-export const APP_SERVER_NAME = '@camera.ui/server';
+export const APP_SERVER_NAME = '@vionvision/server';
